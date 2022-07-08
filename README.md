@@ -10,18 +10,19 @@ You will need an installation of Python, plus the following libraries:(pandas,Nu
 We were given Three different datasets to pick one. As a movie lover I just got attracted to this one naturally. Answering the questions for analysis provided me with a personal satisfaction as they were have had me curious for a long time.
 
 ### Questions for analysis.
-> Which movie genres and actors are more popular?
-> Which movie genre is more profitable to produce?
-> What properties are associated with movies wiyh high revenue?
-> Does a movie's popularity influence its profit?
+ 1. Which movie genres and actors are more popular?
+ 2. Which movie genre is more profitable to produce?
+ 3. What properties are associated with movies with high revenue?
+ 4. Does a movie's popularity influence its profit?
 
 ### What I have learnt?
 
 After completing the project, I have;
-> mastered all the steps involved in a typical data analysis process 
-> Become comfortable posing questions that can be answered with a given dataset and then answering those questions
-> understood how to investigate problems in a dataset and wrangle the data into a format you can use
-> Practiced communicating the results of analysis
-> Been able to use vectorized operations in NumPy and pandas to speed up your data analysis code Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
-> Enjoyed using Matplotlib to explore data and produce plots showing findings
+1. Mastered all the steps involved in a typical data analysis process 
+2. Become comfortable posing questions that can be answered with a given dataset and then answering those questions
+3. Understood how to investigate problems in a dataset and wrangle the data into a format you can use
+4. Practiced communicating the results of analysis
+5. Been able to use vectorized operations in NumPy and pandas to speed up data analysis code
+6. Become familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+7. Enjoyed using Matplotlib to explore data and produce plots showing findings
 
